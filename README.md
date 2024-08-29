@@ -1,7 +1,7 @@
-<h1>Hi, I'm Diamante, an <br/>
+<h1> Hi, I'm Diamante, an <br/>
  <a href="https://www.linkedin.com/in/diamantesmith/"> IT Professional</a>, and <a href="https://dinero365868.myportfolio.com/work">Graphic Designer</a></h1>
 
-<h2>👨🏽‍💻 Information Technology Projects:</h2>
+<h2> <span> 👨🏽‍💻&nbsp;&nbsp;💻 </span>&nbsp;Information Technology Projects: </h2>
 
 - <b>Creating Virtual Networks and Virtual Machines</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
@@ -20,7 +20,7 @@
 - <b>Network File Shares and Permissions</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2>💻 🏙️Graphic Design Projects: </h2>
+<h2> <span> 🖼️&nbsp;&nbsp;🏙️ </span>&nbsp;Graphic Design Projects: </h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
@@ -28,7 +28,7 @@
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
-<h2> 🤳 Connect with me:</h2>
+<h2> <span>🤳&nbsp;&nbsp;📲 </span>&nbsp;Connect With Me: </h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
