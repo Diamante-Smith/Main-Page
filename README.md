@@ -22,7 +22,7 @@
 
 <h2> <span> 🖼️&nbsp;&nbsp;🏙️ </span>&nbsp;Graphic Design Projects: </h2>
 <b>My Graphic Design Portfolio I am working on it more and more I hope you like what I got so far because I have a lot more in the works.</b> <br/>
-[https://dinero365868.myportfolio.com/work]
+https://dinero365868.myportfolio.com/work
 
 <h2> <span>🤳&nbsp;&nbsp;📲 </span>&nbsp;Connect With Me: </h2>
 
