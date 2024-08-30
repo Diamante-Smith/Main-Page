@@ -4,9 +4,9 @@
 <h2> <span> 👨🏽‍💻&nbsp;&nbsp;💻 </span>&nbsp;Information Technology Projects: </h2>
 
 - <b>Creating Virtual Networks and Virtual Machines</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [osTicket: Prerequisites and Installation](https://github.com/Diamante-7777/osticket-prereqs)
 - <b>Ticketing Systems (osTicket)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [osTicket: Prerequisites and Installation](https://github.com/Diamante-7777/osticket-prereqs)
 - <b>Virtual Private Networks (VPNs)</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
