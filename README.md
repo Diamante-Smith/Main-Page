@@ -10,7 +10,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/Diamante-7777/osticket-prereqs)
 
 - <b>Active Directory</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Active Directory](https://github.com/Diamante-Smith/Active-Directory)
   
 
 
