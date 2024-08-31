@@ -5,7 +5,7 @@
 
 - <b>Creating Virtual Networks and Virtual Machines</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Diamante-7777/osticket-prereqs)
-  - 
+ 
 - <b>Ticketing Systems (osTicket)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Diamante-7777/osticket-prereqs)
 
