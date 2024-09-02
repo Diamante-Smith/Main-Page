@@ -10,7 +10,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/Diamante-7777/osticket-prereqs)
 
 - <b>Active Directory</b>
-  - [Active Directory](https://github.com/Diamante-Smith/Active-Directory)
+  - [Active Directory Deployment and Configuration](https://github.com/Diamante-Smith/Active-Directory)
   
 
 
