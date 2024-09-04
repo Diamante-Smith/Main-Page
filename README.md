@@ -4,7 +4,7 @@
 <h2> <span> 👨🏽‍💻&nbsp;&nbsp;💻 </span>&nbsp;Information Technology Projects: </h2>
 
 - <b>Creating Virtual Networks and Virtual Machines</b>
-  - [Creating Virtual Networks and Virtual Machines](https://github.com/Diamante-Smith/Creating-Virtual-Networks-and-Virtual-Machines-)
+  - [Azure Compute and Networking](https://github.com/Diamante-Smith/Creating-Virtual-Networks-and-Virtual-Machines-)
  
 - <b>Ticketing Systems (osTicket)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Diamante-7777/osticket-prereqs)
